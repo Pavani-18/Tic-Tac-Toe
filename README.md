@@ -15,7 +15,7 @@ A Java IDE or a text editor for compiling and running the code.
 
 Running the Game-
 Clone the repository to your local machine:
-   git clone https://github.com/Pavani-18/Tic-Tac-Toe-java.git
+   git clone (https://github.com/Pavani-18/Tic-Tac-Toe)
 Navigate to the project directory:
    cd tic-tac-toe-java
 Compile the Java files:
